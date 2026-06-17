@@ -1,4 +1,4 @@
 console.log("Welcome to Git Course");
-for(i=0;i<5;i++){
-    console.log("code io");
+for(var i=0;i<5;i++){
+    console.log("code");
 }
